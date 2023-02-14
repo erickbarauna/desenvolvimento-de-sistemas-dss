@@ -1,0 +1,17 @@
+C:\Users\conta\Desktop\Erick - MeusProjetos\WinFormsApp1 - DSS - 120223\WinFormsApp1 - DSS - 120223\bin\Debug\net6.0-windows\WinFormsApp1 - DSS - 120223.exe
+C:\Users\conta\Desktop\Erick - MeusProjetos\WinFormsApp1 - DSS - 120223\WinFormsApp1 - DSS - 120223\bin\Debug\net6.0-windows\WinFormsApp1 - DSS - 120223.deps.json
+C:\Users\conta\Desktop\Erick - MeusProjetos\WinFormsApp1 - DSS - 120223\WinFormsApp1 - DSS - 120223\bin\Debug\net6.0-windows\WinFormsApp1 - DSS - 120223.runtimeconfig.json
+C:\Users\conta\Desktop\Erick - MeusProjetos\WinFormsApp1 - DSS - 120223\WinFormsApp1 - DSS - 120223\bin\Debug\net6.0-windows\WinFormsApp1 - DSS - 120223.dll
+C:\Users\conta\Desktop\Erick - MeusProjetos\WinFormsApp1 - DSS - 120223\WinFormsApp1 - DSS - 120223\bin\Debug\net6.0-windows\WinFormsApp1 - DSS - 120223.pdb
+C:\Users\conta\Desktop\Erick - MeusProjetos\WinFormsApp1 - DSS - 120223\WinFormsApp1 - DSS - 120223\obj\Debug\net6.0-windows\WinFormsApp1 - DSS - 120223.csproj.AssemblyReference.cache
+C:\Users\conta\Desktop\Erick - MeusProjetos\WinFormsApp1 - DSS - 120223\WinFormsApp1 - DSS - 120223\obj\Debug\net6.0-windows\WinFormsApp1___DSS___120223.Form1.resources
+C:\Users\conta\Desktop\Erick - MeusProjetos\WinFormsApp1 - DSS - 120223\WinFormsApp1 - DSS - 120223\obj\Debug\net6.0-windows\WinFormsApp1 - DSS - 120223.csproj.GenerateResource.cache
+C:\Users\conta\Desktop\Erick - MeusProjetos\WinFormsApp1 - DSS - 120223\WinFormsApp1 - DSS - 120223\obj\Debug\net6.0-windows\WinFormsApp1 - DSS - 120223.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conta\Desktop\Erick - MeusProjetos\WinFormsApp1 - DSS - 120223\WinFormsApp1 - DSS - 120223\obj\Debug\net6.0-windows\WinFormsApp1 - DSS - 120223.AssemblyInfoInputs.cache
+C:\Users\conta\Desktop\Erick - MeusProjetos\WinFormsApp1 - DSS - 120223\WinFormsApp1 - DSS - 120223\obj\Debug\net6.0-windows\WinFormsApp1 - DSS - 120223.AssemblyInfo.cs
+C:\Users\conta\Desktop\Erick - MeusProjetos\WinFormsApp1 - DSS - 120223\WinFormsApp1 - DSS - 120223\obj\Debug\net6.0-windows\WinFormsApp1 - DSS - 120223.csproj.CoreCompileInputs.cache
+C:\Users\conta\Desktop\Erick - MeusProjetos\WinFormsApp1 - DSS - 120223\WinFormsApp1 - DSS - 120223\obj\Debug\net6.0-windows\WinFormsApp1 - DSS - 120223.dll
+C:\Users\conta\Desktop\Erick - MeusProjetos\WinFormsApp1 - DSS - 120223\WinFormsApp1 - DSS - 120223\obj\Debug\net6.0-windows\refint\WinFormsApp1 - DSS - 120223.dll
+C:\Users\conta\Desktop\Erick - MeusProjetos\WinFormsApp1 - DSS - 120223\WinFormsApp1 - DSS - 120223\obj\Debug\net6.0-windows\WinFormsApp1 - DSS - 120223.pdb
+C:\Users\conta\Desktop\Erick - MeusProjetos\WinFormsApp1 - DSS - 120223\WinFormsApp1 - DSS - 120223\obj\Debug\net6.0-windows\WinFormsApp1 - DSS - 120223.genruntimeconfig.cache
+C:\Users\conta\Desktop\Erick - MeusProjetos\WinFormsApp1 - DSS - 120223\WinFormsApp1 - DSS - 120223\obj\Debug\net6.0-windows\ref\WinFormsApp1 - DSS - 120223.dll

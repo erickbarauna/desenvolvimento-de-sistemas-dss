@@ -1,0 +1,11 @@
+D:\2EDSS\Win_RaizQuadrada\Win_RaizQuadrada\bin\Debug\Win_RaizQuadrada.exe.config
+D:\2EDSS\Win_RaizQuadrada\Win_RaizQuadrada\bin\Debug\Win_RaizQuadrada.exe
+D:\2EDSS\Win_RaizQuadrada\Win_RaizQuadrada\bin\Debug\Win_RaizQuadrada.pdb
+D:\2EDSS\Win_RaizQuadrada\Win_RaizQuadrada\obj\Debug\Win_RaizQuadrada.csproj.AssemblyReference.cache
+D:\2EDSS\Win_RaizQuadrada\Win_RaizQuadrada\obj\Debug\Win_RaizQuadrada.csproj.SuggestedBindingRedirects.cache
+D:\2EDSS\Win_RaizQuadrada\Win_RaizQuadrada\obj\Debug\Win_RaizQuadrada.FrmRaizQuadrada.resources
+D:\2EDSS\Win_RaizQuadrada\Win_RaizQuadrada\obj\Debug\Win_RaizQuadrada.Properties.Resources.resources
+D:\2EDSS\Win_RaizQuadrada\Win_RaizQuadrada\obj\Debug\Win_RaizQuadrada.csproj.GenerateResource.cache
+D:\2EDSS\Win_RaizQuadrada\Win_RaizQuadrada\obj\Debug\Win_RaizQuadrada.csproj.CoreCompileInputs.cache
+D:\2EDSS\Win_RaizQuadrada\Win_RaizQuadrada\obj\Debug\Win_RaizQuadrada.exe
+D:\2EDSS\Win_RaizQuadrada\Win_RaizQuadrada\obj\Debug\Win_RaizQuadrada.pdb

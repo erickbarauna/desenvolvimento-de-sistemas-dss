@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win_RaizQuadrada", "Win_RaizQuadrada\Win_RaizQuadrada.csproj", "{72109F8B-9929-4819-87FB-F9DD73810F4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72109F8B-9929-4819-87FB-F9DD73810F4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72109F8B-9929-4819-87FB-F9DD73810F4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72109F8B-9929-4819-87FB-F9DD73810F4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72109F8B-9929-4819-87FB-F9DD73810F4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1997443A-927D-41FE-A51C-074E1C3B07C9}
+	EndGlobalSection
+EndGlobal

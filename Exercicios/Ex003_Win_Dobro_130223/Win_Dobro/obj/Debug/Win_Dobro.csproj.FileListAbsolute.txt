@@ -1,0 +1,11 @@
+D:\2EDSS\Win_Dobro\Win_Dobro\bin\Debug\Win_Dobro.exe.config
+D:\2EDSS\Win_Dobro\Win_Dobro\bin\Debug\Win_Dobro.exe
+D:\2EDSS\Win_Dobro\Win_Dobro\bin\Debug\Win_Dobro.pdb
+D:\2EDSS\Win_Dobro\Win_Dobro\obj\Debug\Win_Dobro.csproj.AssemblyReference.cache
+D:\2EDSS\Win_Dobro\Win_Dobro\obj\Debug\Win_Dobro.csproj.SuggestedBindingRedirects.cache
+D:\2EDSS\Win_Dobro\Win_Dobro\obj\Debug\Win_Dobro.FrmDobro.resources
+D:\2EDSS\Win_Dobro\Win_Dobro\obj\Debug\Win_Dobro.Properties.Resources.resources
+D:\2EDSS\Win_Dobro\Win_Dobro\obj\Debug\Win_Dobro.csproj.GenerateResource.cache
+D:\2EDSS\Win_Dobro\Win_Dobro\obj\Debug\Win_Dobro.csproj.CoreCompileInputs.cache
+D:\2EDSS\Win_Dobro\Win_Dobro\obj\Debug\Win_Dobro.exe
+D:\2EDSS\Win_Dobro\Win_Dobro\obj\Debug\Win_Dobro.pdb
