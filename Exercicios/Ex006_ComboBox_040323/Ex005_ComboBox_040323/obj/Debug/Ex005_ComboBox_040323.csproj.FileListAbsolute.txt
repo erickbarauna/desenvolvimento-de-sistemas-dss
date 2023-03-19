@@ -1,0 +1,11 @@
+C:\Users\conta\Desktop\Erick - MeusProjetos\Ex005_ComboBox_040323\Ex005_ComboBox_040323\bin\Debug\Ex005_ComboBox_040323.exe.config
+C:\Users\conta\Desktop\Erick - MeusProjetos\Ex005_ComboBox_040323\Ex005_ComboBox_040323\bin\Debug\Ex005_ComboBox_040323.exe
+C:\Users\conta\Desktop\Erick - MeusProjetos\Ex005_ComboBox_040323\Ex005_ComboBox_040323\bin\Debug\Ex005_ComboBox_040323.pdb
+C:\Users\conta\Desktop\Erick - MeusProjetos\Ex005_ComboBox_040323\Ex005_ComboBox_040323\obj\Debug\Ex005_ComboBox_040323.csproj.AssemblyReference.cache
+C:\Users\conta\Desktop\Erick - MeusProjetos\Ex005_ComboBox_040323\Ex005_ComboBox_040323\obj\Debug\Ex005_ComboBox_040323.csproj.SuggestedBindingRedirects.cache
+C:\Users\conta\Desktop\Erick - MeusProjetos\Ex005_ComboBox_040323\Ex005_ComboBox_040323\obj\Debug\Ex005_ComboBox_040323.Form1.resources
+C:\Users\conta\Desktop\Erick - MeusProjetos\Ex005_ComboBox_040323\Ex005_ComboBox_040323\obj\Debug\Ex005_ComboBox_040323.Properties.Resources.resources
+C:\Users\conta\Desktop\Erick - MeusProjetos\Ex005_ComboBox_040323\Ex005_ComboBox_040323\obj\Debug\Ex005_ComboBox_040323.csproj.GenerateResource.cache
+C:\Users\conta\Desktop\Erick - MeusProjetos\Ex005_ComboBox_040323\Ex005_ComboBox_040323\obj\Debug\Ex005_ComboBox_040323.csproj.CoreCompileInputs.cache
+C:\Users\conta\Desktop\Erick - MeusProjetos\Ex005_ComboBox_040323\Ex005_ComboBox_040323\obj\Debug\Ex005_ComboBox_040323.exe
+C:\Users\conta\Desktop\Erick - MeusProjetos\Ex005_ComboBox_040323\Ex005_ComboBox_040323\obj\Debug\Ex005_ComboBox_040323.pdb

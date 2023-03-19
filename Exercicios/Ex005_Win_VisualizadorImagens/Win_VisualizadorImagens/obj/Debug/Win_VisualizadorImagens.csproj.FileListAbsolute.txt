@@ -1,0 +1,11 @@
+D:\2EDSS\Win_VisualizadorImagens\Win_VisualizadorImagens\bin\Debug\Win_VisualizadorImagens.exe.config
+D:\2EDSS\Win_VisualizadorImagens\Win_VisualizadorImagens\bin\Debug\Win_VisualizadorImagens.exe
+D:\2EDSS\Win_VisualizadorImagens\Win_VisualizadorImagens\bin\Debug\Win_VisualizadorImagens.pdb
+D:\2EDSS\Win_VisualizadorImagens\Win_VisualizadorImagens\obj\Debug\Win_VisualizadorImagens.csproj.AssemblyReference.cache
+D:\2EDSS\Win_VisualizadorImagens\Win_VisualizadorImagens\obj\Debug\Win_VisualizadorImagens.csproj.SuggestedBindingRedirects.cache
+D:\2EDSS\Win_VisualizadorImagens\Win_VisualizadorImagens\obj\Debug\Win_VisualizadorImagens.Properties.Resources.resources
+D:\2EDSS\Win_VisualizadorImagens\Win_VisualizadorImagens\obj\Debug\Win_VisualizadorImagens.csproj.GenerateResource.cache
+D:\2EDSS\Win_VisualizadorImagens\Win_VisualizadorImagens\obj\Debug\Win_VisualizadorImagens.csproj.CoreCompileInputs.cache
+D:\2EDSS\Win_VisualizadorImagens\Win_VisualizadorImagens\obj\Debug\Win_VisualizadorImagens.exe
+D:\2EDSS\Win_VisualizadorImagens\Win_VisualizadorImagens\obj\Debug\Win_VisualizadorImagens.pdb
+D:\2EDSS\Win_VisualizadorImagens\Win_VisualizadorImagens\obj\Debug\Win_VisualizadorImagens.FrmPictureBox.resources

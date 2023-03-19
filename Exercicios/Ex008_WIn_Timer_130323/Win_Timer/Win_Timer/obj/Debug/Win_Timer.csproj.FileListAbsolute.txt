@@ -1,0 +1,11 @@
+C:\Users\alunoinfo\source\repos\Win_Timer\Win_Timer\obj\Debug\Win_Timer.csproj.AssemblyReference.cache
+C:\Users\alunoinfo\source\repos\Win_Timer\Win_Timer\obj\Debug\Win_Timer.csproj.SuggestedBindingRedirects.cache
+C:\Users\alunoinfo\source\repos\Win_Timer\Win_Timer\obj\Debug\Win_Timer.Form1.resources
+C:\Users\alunoinfo\source\repos\Win_Timer\Win_Timer\obj\Debug\Win_Timer.Properties.Resources.resources
+C:\Users\alunoinfo\source\repos\Win_Timer\Win_Timer\obj\Debug\Win_Timer.csproj.GenerateResource.cache
+C:\Users\alunoinfo\source\repos\Win_Timer\Win_Timer\obj\Debug\Win_Timer.csproj.CoreCompileInputs.cache
+C:\Users\alunoinfo\source\repos\Win_Timer\Win_Timer\bin\Debug\Win_Timer.exe.config
+C:\Users\alunoinfo\source\repos\Win_Timer\Win_Timer\bin\Debug\Win_Timer.exe
+C:\Users\alunoinfo\source\repos\Win_Timer\Win_Timer\bin\Debug\Win_Timer.pdb
+C:\Users\alunoinfo\source\repos\Win_Timer\Win_Timer\obj\Debug\Win_Timer.exe
+C:\Users\alunoinfo\source\repos\Win_Timer\Win_Timer\obj\Debug\Win_Timer.pdb

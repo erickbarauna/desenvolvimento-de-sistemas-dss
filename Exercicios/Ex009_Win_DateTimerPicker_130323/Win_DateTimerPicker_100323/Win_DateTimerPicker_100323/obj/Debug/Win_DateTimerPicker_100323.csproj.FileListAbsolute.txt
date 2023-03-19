@@ -1,0 +1,11 @@
+C:\Users\alunoinfo\source\repos\Win_DateTimerPicker_100323\Win_DateTimerPicker_100323\bin\Debug\Win_DateTimerPicker_100323.exe.config
+C:\Users\alunoinfo\source\repos\Win_DateTimerPicker_100323\Win_DateTimerPicker_100323\bin\Debug\Win_DateTimerPicker_100323.exe
+C:\Users\alunoinfo\source\repos\Win_DateTimerPicker_100323\Win_DateTimerPicker_100323\bin\Debug\Win_DateTimerPicker_100323.pdb
+C:\Users\alunoinfo\source\repos\Win_DateTimerPicker_100323\Win_DateTimerPicker_100323\obj\Debug\Win_DateTimerPicker_100323.csproj.AssemblyReference.cache
+C:\Users\alunoinfo\source\repos\Win_DateTimerPicker_100323\Win_DateTimerPicker_100323\obj\Debug\Win_DateTimerPicker_100323.csproj.SuggestedBindingRedirects.cache
+C:\Users\alunoinfo\source\repos\Win_DateTimerPicker_100323\Win_DateTimerPicker_100323\obj\Debug\Win_DateTimerPicker_100323.Form1.resources
+C:\Users\alunoinfo\source\repos\Win_DateTimerPicker_100323\Win_DateTimerPicker_100323\obj\Debug\Win_DateTimerPicker_100323.Properties.Resources.resources
+C:\Users\alunoinfo\source\repos\Win_DateTimerPicker_100323\Win_DateTimerPicker_100323\obj\Debug\Win_DateTimerPicker_100323.csproj.GenerateResource.cache
+C:\Users\alunoinfo\source\repos\Win_DateTimerPicker_100323\Win_DateTimerPicker_100323\obj\Debug\Win_DateTimerPicker_100323.csproj.CoreCompileInputs.cache
+C:\Users\alunoinfo\source\repos\Win_DateTimerPicker_100323\Win_DateTimerPicker_100323\obj\Debug\Win_DateTimerPicker_100323.exe
+C:\Users\alunoinfo\source\repos\Win_DateTimerPicker_100323\Win_DateTimerPicker_100323\obj\Debug\Win_DateTimerPicker_100323.pdb
