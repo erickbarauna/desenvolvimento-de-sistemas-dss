@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3F2F9C9A-F31F-4FF7-980E-4D915C629286}</ProjectGuid>
+    <ProjectGuid>{1875635D-9F66-4379-AF28-EF2DF5BC1D96}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Ex14_Win_Banco01_030423</RootNamespace>
-    <AssemblyName>Ex14_Win_Banco01_030423</AssemblyName>
+    <RootNamespace>Win_banco</RootNamespace>
+    <AssemblyName>Win-banco</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -51,16 +51,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ClassBD.cs" />
-    <Compile Include="FrmBanco01.cs">
+    <Compile Include="Frmbanco01.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmBanco01.Designer.cs">
-      <DependentUpon>FrmBanco01.cs</DependentUpon>
+    <Compile Include="Frmbanco01.Designer.cs">
+      <DependentUpon>Frmbanco01.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="FrmBanco01.resx">
-      <DependentUpon>FrmBanco01.cs</DependentUpon>
+    <EmbeddedResource Include="Frmbanco01.resx">
+      <DependentUpon>Frmbanco01.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

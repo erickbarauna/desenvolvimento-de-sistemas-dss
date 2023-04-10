@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Ex14_Win_Banco01_030423.Properties
+namespace Win_banco.Properties
 {
 
 

@@ -8,13 +8,15 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Ex14_Win_Banco01_030423
+namespace Win_banco
 {
-    public partial class FrmBanco01 : Form
+    public partial class Frmbanco01 : Form
     {
-        public FrmBanco01()
+        public Frmbanco01()
         {
             InitializeComponent();
         }
+
+       
     }
 }

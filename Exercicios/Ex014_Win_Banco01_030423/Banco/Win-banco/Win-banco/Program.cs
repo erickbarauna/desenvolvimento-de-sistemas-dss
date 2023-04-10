@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Ex14_Win_Banco01_030423
+namespace Win_banco
 {
     internal static class Program
     {
@@ -16,7 +16,7 @@ namespace Ex14_Win_Banco01_030423
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmBanco01());
+            Application.Run(new Frmbanco01());
         }
     }
 }

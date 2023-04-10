@@ -1,6 +1,6 @@
-﻿namespace Ex14_Win_Banco01_030423
+﻿namespace Win_banco
 {
-    partial class FrmBanco01
+    partial class Frmbanco01
     {
         /// <summary>
         /// Required designer variable.
@@ -35,9 +35,10 @@
             this.btnSair = new System.Windows.Forms.Button();
             this.CodProd = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.NomeProd = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.DescProd = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Valor = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.CodForn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.CodFor = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
@@ -48,13 +49,15 @@
             this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.CodProd,
             this.NomeProd,
+            this.Column1,
             this.DescProd,
             this.Valor,
-            this.CodForn});
+            this.CodFor});
             this.dataGridView1.Location = new System.Drawing.Point(12, 12);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(860, 403);
+            this.dataGridView1.Size = new System.Drawing.Size(860, 399);
             this.dataGridView1.TabIndex = 0;
+//            this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
             // panel1
             // 
@@ -62,34 +65,35 @@
             this.panel1.Controls.Add(this.btnSair);
             this.panel1.Controls.Add(this.btnCancelar);
             this.panel1.Controls.Add(this.btnExibir);
-            this.panel1.Location = new System.Drawing.Point(13, 425);
+            this.panel1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.panel1.Location = new System.Drawing.Point(13, 421);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(859, 78);
+            this.panel1.Size = new System.Drawing.Size(859, 71);
             this.panel1.TabIndex = 1;
             // 
             // btnExibir
             // 
-            this.btnExibir.Location = new System.Drawing.Point(455, 16);
+            this.btnExibir.Location = new System.Drawing.Point(537, 17);
             this.btnExibir.Name = "btnExibir";
-            this.btnExibir.Size = new System.Drawing.Size(114, 45);
+            this.btnExibir.Size = new System.Drawing.Size(99, 40);
             this.btnExibir.TabIndex = 0;
             this.btnExibir.Text = "&Exibir";
             this.btnExibir.UseVisualStyleBackColor = true;
             // 
             // btnCancelar
             // 
-            this.btnCancelar.Location = new System.Drawing.Point(591, 16);
+            this.btnCancelar.Location = new System.Drawing.Point(642, 17);
             this.btnCancelar.Name = "btnCancelar";
-            this.btnCancelar.Size = new System.Drawing.Size(114, 45);
+            this.btnCancelar.Size = new System.Drawing.Size(99, 40);
             this.btnCancelar.TabIndex = 1;
             this.btnCancelar.Text = "&Cancelar";
             this.btnCancelar.UseVisualStyleBackColor = true;
             // 
             // btnSair
             // 
-            this.btnSair.Location = new System.Drawing.Point(727, 16);
+            this.btnSair.Location = new System.Drawing.Point(747, 17);
             this.btnSair.Name = "btnSair";
-            this.btnSair.Size = new System.Drawing.Size(114, 45);
+            this.btnSair.Size = new System.Drawing.Size(99, 40);
             this.btnSair.TabIndex = 2;
             this.btnSair.Text = "&Sair";
             this.btnSair.UseVisualStyleBackColor = true;
@@ -104,6 +108,11 @@
             this.NomeProd.HeaderText = "Produto";
             this.NomeProd.Name = "NomeProd";
             // 
+            // Column1
+            // 
+            this.Column1.HeaderText = "Column1";
+            this.Column1.Name = "Column1";
+            // 
             // DescProd
             // 
             this.DescProd.HeaderText = "Descrição";
@@ -114,22 +123,23 @@
             this.Valor.HeaderText = "Valor";
             this.Valor.Name = "Valor";
             // 
-            // CodForn
+            // CodFor
             // 
-            this.CodForn.HeaderText = "Fornecedor";
-            this.CodForn.Name = "CodForn";
+            this.CodFor.HeaderText = "Fornecedor";
+            this.CodFor.Name = "CodFor";
             // 
-            // FrmBanco01
+            // Frmbanco01
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(96F, 96F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
             this.ClientSize = new System.Drawing.Size(884, 511);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.dataGridView1);
-            this.Font = new System.Drawing.Font("Viner Hand ITC", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Font = new System.Drawing.Font("Verdana", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ForeColor = System.Drawing.Color.Crimson;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.MaximizeBox = false;
-            this.Name = "FrmBanco01";
+            this.Name = "Frmbanco01";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Lista de Produtos";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
@@ -147,9 +157,10 @@
         private System.Windows.Forms.Button btnExibir;
         private System.Windows.Forms.DataGridViewTextBoxColumn CodProd;
         private System.Windows.Forms.DataGridViewTextBoxColumn NomeProd;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column1;
         private System.Windows.Forms.DataGridViewTextBoxColumn DescProd;
         private System.Windows.Forms.DataGridViewTextBoxColumn Valor;
-        private System.Windows.Forms.DataGridViewTextBoxColumn CodForn;
+        private System.Windows.Forms.DataGridViewTextBoxColumn CodFor;
     }
 }
 

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Ex14_Win_Banco01_030423")]
+[assembly: AssemblyTitle("Win-banco")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Ex14_Win_Banco01_030423")]
+[assembly: AssemblyProduct("Win-banco")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("3f2f9c9a-f31f-4ff7-980e-4d915c629286")]
+[assembly: Guid("1875635d-9f66-4379-af28-ef2df5bc1d96")]
 
 // Version information for an assembly consists of the following four values:
 //
