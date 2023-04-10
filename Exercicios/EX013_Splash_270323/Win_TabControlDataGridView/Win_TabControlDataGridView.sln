@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win_TabControlDataGridView", "Win_TabControlDataGridView\Win_TabControlDataGridView.csproj", "{FC101863-7130-4DAE-9B63-E7631554DE88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC101863-7130-4DAE-9B63-E7631554DE88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC101863-7130-4DAE-9B63-E7631554DE88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC101863-7130-4DAE-9B63-E7631554DE88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC101863-7130-4DAE-9B63-E7631554DE88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F99EEF9-2564-4925-806B-B62B47534CAC}
+	EndGlobalSection
+EndGlobal
